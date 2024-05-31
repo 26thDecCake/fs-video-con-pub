@@ -1,5 +1,5 @@
 # Video Conference App
-This is one of my learning React projects, a video conference application built using React with TypeScript and Next.js.
+This is one of my learning React projects[^1], a video conference application built using React with TypeScript and Next.js.
 
 ## Features
 - **Instant Meeting**: Start a meeting instantly and invite people in via a shareable invitation link
@@ -27,3 +27,6 @@ This is one of my learning React projects, a video conference application built 
 - [Clerk](https://clerk.com/) - Authentication
 - [Stream.io](https://getstream.io/) - Video Streaming
 - [Netlify](https://app.netlify.com/) - Hosting
+
+
+[^1]: Referenced from YouTube channel @javascriptmastery
