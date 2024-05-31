@@ -1,4 +1,4 @@
-# Video Conference App Imitation
+# Video Conference App
 This is one of my learning React projects, a video conference application built using React with TypeScript and Next.js.
 
 ## Features
@@ -11,6 +11,7 @@ This is one of my learning React projects, a video conference application built 
 
 ## Demo
 Still constructing...
+Or you can take a peek (need to sign-up though) [here](https://boom-video-conference.netlify.app/).
 
 ## Technology Used
 - [TypeScript](https://www.typescriptlang.org/) - Language
