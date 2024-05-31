@@ -11,7 +11,10 @@ This is one of my learning React projects, a video conference application built 
 
 ## Demo
 Still constructing...
-Or you can take a peek (need to sign-up though) [here](https://boom-video-conference.netlify.app/).
+
+> [!NOTE]
+> Or you can take a peek (need to sign-up though) [here](https://boom-video-conference.netlify.app/).
+
 
 ## Technology Used
 - [TypeScript](https://www.typescriptlang.org/) - Language
