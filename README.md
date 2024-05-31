@@ -10,7 +10,10 @@ This is one of my learning React projects, a video conference application built 
 - **Meeting Room Control**: Control audio, video, layout, participant, and screen sharing during the meeting
 
 ## Demo
-Still constructing...
+
+![Video Conference App Demo](public/demo/demo1.gif)
+> [!NOTE]
+> Sorry for the fps drop, I need to sacrifice some fps to cram a 40s-ish video into gif
 
 > [!NOTE]
 > Or you can take a peek (need to sign-up though) [here](https://boom-video-conference.netlify.app/).
