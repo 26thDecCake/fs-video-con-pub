@@ -1,5 +1,5 @@
 # Video Conference App
-This is one of my learning React projects[^1], a video conference application built using React with TypeScript and Next.js.
+This is one of my learning React projects, a video conference web application[^1] built using React with TypeScript and Next.js.
 
 ## Features
 - **Instant Meeting**: Start a meeting instantly and invite people in via a shareable invitation link
@@ -13,10 +13,10 @@ This is one of my learning React projects[^1], a video conference application bu
 
 ![Video Conference App Demo](public/demo/demo1.gif)
 > [!NOTE]
-> Sorry for the fps drop, I need to sacrifice some fps to cram a 40s-ish video into gif
+> Sorry for the fps drop, I need to sacrifice some fps to cram a 40s-ish video into a gif
 
 > [!NOTE]
-> Or you can take a peek (need to sign-up though) [here](https://boom-video-conference.netlify.app/).
+> Or you can take a peek (need to sign up though) [here](https://boom-video-conference.netlify.app/).
 
 
 ## Technology Used
