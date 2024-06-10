@@ -1,4 +1,4 @@
-# Video Conference App
+# Video Conference Web App
 This is a video conference web application[^1] built using React with TypeScript and Next.js.
 
 ## Features
