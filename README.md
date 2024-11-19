@@ -1,5 +1,5 @@
 # Video Conference Web App
-This is a video conference web application[^1] built using React with TypeScript and Next.js.
+This is a video conference web application built using React with TypeScript and Next.js.
 
 ## Features
 - **Instant Meeting**: Start a meeting instantly and invite people in via a shareable invitation link
@@ -27,6 +27,3 @@ This is a video conference web application[^1] built using React with TypeScript
 - [Clerk](https://clerk.com/) - Authentication
 - [Stream.io](https://getstream.io/) - Video Streaming
 - [Netlify](https://app.netlify.com/) - Hosting
-
-
-[^1]: Referenced from YouTube channel @javascriptmastery
